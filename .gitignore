@@ -11,3 +11,5 @@ CMakeSettings.json
 cmake-build-*
 
 frontend/replay/*
+
+trial_and_error/replay/*
