@@ -1,0 +1,14 @@
+
+{
+	"interval": 1.0,
+	"seed": 666,
+	"dir": "",
+	"roadnetFile": "roadnet/roadnet_2_4_turn.json",
+	"flowFile": "flow/flow_2_4_turn.json",
+	"rlTrafficLight": false,
+	"laneChange": false,
+	"saveReplay": true,
+	"roadnetLogFile": "replay/replay_roadnet.json",
+	"replayLogFile": "replay/replay.txt"
+}
+
